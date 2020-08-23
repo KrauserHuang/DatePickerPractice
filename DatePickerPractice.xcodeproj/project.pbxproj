@@ -15,6 +15,7 @@
 		4FF6870824E9328000E993EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FF6870624E9328000E993EF /* LaunchScreen.storyboard */; };
 		4FF6871324E9328100E993EF /* DatePickerPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF6871224E9328100E993EF /* DatePickerPracticeTests.swift */; };
 		4FF6871E24E9328100E993EF /* DatePickerPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF6871D24E9328100E993EF /* DatePickerPracticeUITests.swift */; };
+		4FF6872E24EBC39A00E993EF /* LasVegasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF6872D24EBC39A00E993EF /* LasVegasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4FF6871924E9328100E993EF /* DatePickerPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatePickerPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FF6871D24E9328100E993EF /* DatePickerPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerPracticeUITests.swift; sourceTree = "<group>"; };
 		4FF6871F24E9328100E993EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FF6872D24EBC39A00E993EF /* LasVegasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LasVegasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4FF686FB24E9327E00E993EF /* AppDelegate.swift */,
 				4FF686FD24E9327E00E993EF /* SceneDelegate.swift */,
 				4FF686FF24E9327E00E993EF /* ViewController.swift */,
+				4FF6872D24EBC39A00E993EF /* LasVegasViewController.swift */,
 				4FF6870124E9327E00E993EF /* Main.storyboard */,
 				4FF6870424E9328000E993EF /* Assets.xcassets */,
 				4FF6870624E9328000E993EF /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FF6872E24EBC39A00E993EF /* LasVegasViewController.swift in Sources */,
 				4FF6870024E9327E00E993EF /* ViewController.swift in Sources */,
 				4FF686FC24E9327E00E993EF /* AppDelegate.swift in Sources */,
 				4FF686FE24E9327E00E993EF /* SceneDelegate.swift in Sources */,
